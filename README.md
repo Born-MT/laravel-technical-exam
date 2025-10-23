@@ -36,7 +36,6 @@ Build a News Aggregator application that fetches articles from a public news API
 - Create a web interface with the following pages:
   - Homepage: Display latest articles (paginated)
   - Article detail page
-  - Filter/search functionality by category, source, or date range
 - Use Blade templates with proper layout inheritance
 - Display article images, titles, descriptions, and publication dates
 - Include proper error handling and user feedback
@@ -65,6 +64,7 @@ Build a News Aggregator application that fetches articles from a public news API
   - **Livewire** for real-time article updates without page refresh
   - **Inertia.js** for SPA-like experience
 - Add loading states and smooth transitions
+- Filter/search functionality by category, source, or date range
 
 ### 8. **Additional Features**
 - Email notifications for new articles in followed categories
