@@ -13,7 +13,7 @@ Build a News Aggregator application that fetches articles from a public news API
 ### 1. **API Integration**
 - Integrate with NewsAPI (https://newsapi.org/) or any similar free news API
 - Create a Laravel Artisan command to fetch articles from multiple news sources/categories
-- The command should be schedulable and accept parameters (e.g., category, date range, number of articles)
+- The command should be schedulable or accept parameters (e.g., category, date range, number of articles)
 - Handle API rate limiting and errors gracefully
 - Log all API interactions (success/failure)
 
